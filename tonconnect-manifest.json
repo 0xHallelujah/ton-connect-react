@@ -1,5 +1,5 @@
 {
-    "url": "<app-url>",                     
-    "name": "<app-name>",                      
-    "iconUrl": "<app-icon-url>"   
+    "url": "https://0xhallelujah.github.io/ton-connect-react",                        
+    "name": "ReactTest",                      
+    "iconUrl": "<app-icon-url>"
 }

@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <TonConnectUIProvider manifestUrl="https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json">
+      <TonConnectUIProvider manifestUrl="https://0xhallelujah.github.io/ton-connect-react/tonconnect-manifest.json">
         <Header/>
       </TonConnectUIProvider>
     </>
